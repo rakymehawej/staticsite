@@ -2,7 +2,7 @@
   // Cloudflare Workers configuration
   // See: https://developers.cloudflare.com/workers/wrangler/configuration/
 
-  "name": "static-assets-worker",
+  "name": "staticsite",
   "main": "src/index.js",
   "compatibility_date": "2024-12-01",
 
